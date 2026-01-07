@@ -15,6 +15,7 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
 
 #### Banco de Dados & ORM
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Knex.js](https://img.shields.io/badge/knex.js-d26b38?style=for-the-badge&logo=k&logoColor=white)
 
